@@ -1,0 +1,82 @@
+{
+  "stocks": [
+    {
+      "symbol": "AAPL",
+      "company": "Apple Inc.",
+      "price": 185,
+      "sector": "Technology"
+    },
+    {
+      "symbol": "MSFT",
+      "company": "Microsoft Corp.",
+      "price": 410,
+      "sector": "Technology"
+    },
+    {
+      "symbol": "NVDA",
+      "company": "Nvidia Corp.",
+      "price": 700,
+      "sector": "AI/Semiconductors"
+    },
+    {
+      "symbol": "TSLA",
+      "company": "Tesla Inc.",
+      "price": 190,
+      "sector": "EV/Automotive"
+    },
+    {
+      "symbol": "PLTR",
+      "company": "Palantir Technologies",
+      "price": 21,
+      "sector": "AI/Big Data"
+    },
+    {
+      "symbol": "SOFI",
+      "company": "SoFi Technologies",
+      "price": 9,
+      "sector": "Fintech"
+    },
+    {
+      "symbol": "CHPT",
+      "company": "ChargePoint Holdings",
+      "price": 2.50,
+      "sector": "EV Charging"
+    },
+    {
+      "symbol": "JNJ",
+      "company": "Johnson & Johnson",
+      "price": 158,
+      "sector": "Healthcare"
+    },
+    {
+      "symbol": "PFE",
+      "company": "Pfizer Inc.",
+      "price": 27,
+      "sector": "Healthcare"
+    },
+    {
+      "symbol": "KO",
+      "company": "Coca-Cola",
+      "price": 60,
+      "sector": "Consumer Goods"
+    },
+    {
+      "symbol": "AMZN",
+      "company": "Amazon",
+      "price": 170,
+      "sector": "E-Commerce"
+    },
+    {
+      "symbol": "GOOGL",
+      "company": "Alphabet (Google)",
+      "price": 145,
+      "sector": "Technology"
+    },
+    {
+      "symbol": "PG",
+      "company": "*Procter & Gamble",
+      "price": 1500,
+      "sector": "Consumer Goods"
+    }
+  ]
+}
